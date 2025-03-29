@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sayandeep Kanrar</h1>
-<h3 align="center">A passionate AI/ML developer and 3rd year B.Tech student from India</h3>
+<h1 align="left">Hi 👋, I'm Sayandeep Kanrar</h1>
+<h3 align="left">A passionate AI/ML developer and 3rd year B.Tech student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepseyindark&label=Profile%20views&color=0e75b6&style=flat" alt="deepseyindark" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I recently [built a better and efficient VM-Unet model for image segmentation currently submitted in IEEE transactions for emerging topics in computational intelligence](https://github.com/deepseyindark/VM-Unet-Model-for-Medical-Image-Segmentation)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lgLmQxqh5EF-_pC7g8ssQwRj9IBBLJI7/view?usp=drive_link](https://drive.google.com/file/d/1lgLmQxqh5EF-_pC7g8ssQwRj9IBBLJI7/view?usp=drive_link)
+- 📄 Know about my experiences [portfolio link](https://drive.google.com/file/d/1lgLmQxqh5EF-_pC7g8ssQwRj9IBBLJI7/view?usp=drive_link)
 
 - ⚡ Fun fact **I can shoot really cool videos**
 
