@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi👋
 
-Hi! My name is Sayandeep, and I'm a 3rd year computer science student interested in all things Machine Learning & AI
+My name is Sayandeep, and I'm a 3rd year computer science student interested in all things Machine Learning & AI
 
 - 🔭 I’m currently working on building a ML-based tool that can help doctors using Computer         Vision.
 - 🌱 I recently build a better and efficient VM-Unet model for image segmentation, you can         check it out [here](https://github.com/deepseyindark/VM-Unet-Model-for-Medical-Image-         Segmentation)
