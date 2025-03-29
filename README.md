@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **building a ML-based tool that can help doctors using Computer Vision.**
 
-- 📫 How to reach me **sayandeepkanrar255@gmail.com**
+- 📫 How to reach me : **sayandeepkanrar255@gmail.com**
 
 - 🌱 I recently built a better and efficient VM-Unet model for image segmentation currently submitted in IEEE transactions for emerging topics in computational intelligence, check it out [here](https://github.com/deepseyindark/VM-Unet-Model-for-Medical-Image-Segmentation)
 
 - 📄 Know about my experiences : [portfolio link](https://drive.google.com/file/d/1lgLmQxqh5EF-_pC7g8ssQwRj9IBBLJI7/view?usp=drive_link)
 
-- ⚡ Fun fact **I can shoot really cool videos**
+- ⚡ Fun fact, **I can shoot really cool videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
