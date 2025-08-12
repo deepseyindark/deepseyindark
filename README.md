@@ -13,7 +13,7 @@
 
 - 🌱 I recently built a better and efficient VM-Unet model for image segmentation currently submitted in IEEE transactions for emerging topics in computational intelligence, check it out [here](https://github.com/deepseyindark/VM-Unet-Model-for-Medical-Image-Segmentation)
 
-- 📄 Know about my experiences : [portfolio link](https://drive.google.com/file/d/17wbEamGyFwv6CJZBvcV1XQAj7N-vNWei/view?usp=sharing)
+- 📄 Know about my experiences : [portfolio link](https://drive.google.com/file/d/1CZ0KVL_9ts14-WoHmu1tzEROjUqeU-jP/view?usp=sharing)
 
 - ⚡ Fun fact, **I can shoot really cool videos**
 
