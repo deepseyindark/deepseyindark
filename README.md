@@ -6,7 +6,7 @@
 
 - 💼 I'm currently a **Cyber Security Analyst at KPMG India**, working on IT audits, ISO 27001 compliance, and SIEM/EDR control assessments for enterprise clients
 
-- 🔭 I'm currently building **SOCGPT**, a full-stack AI-powered security operations platform — log ingestion, rule-based threat detection, MITRE ATT&CK mapping, live threat intel enrichment (VirusTotal/AbuseIPDB/Shodan/OTX), and an LLM-powered analyst assistant layer in progress. Check it out [here](https://github.com/deepseyindark/SOCGPT)
+- 🔭 I'm currently building **SOCGPT**, a full-stack AI-powered security operations platform and an LLM-powered analyst assistant layer in progress. Check it out [here](https://github.com/deepseyindark/SOCGPT)
 
 - 🌱 I built **MIEMSS**, an AI system integrating denoising, HOG-based feature extraction, and Isolation Forest anomaly detection to localize malignancies in medical scans — check it out [here](https://github.com/deepseyindark/MIEMSS)
 
